@@ -1,2 +1,3 @@
 i am priya
 i am third year student interested in coding
+i know about git and github
